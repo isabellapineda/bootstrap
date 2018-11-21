@@ -1,0 +1,54 @@
+.primera{
+	height: 70px;
+	background: lightblue;
+	margin-top: 30px;
+
+}
+.segunda{
+	background: blue;
+	height: 150px;
+	margin-top: 30px;
+
+}
+[class*="ter"]{
+	background: yellow;
+	height: 250px;
+	margin-top: 30px;
+}
+.tercera{
+	background: tomato;
+}
+.tercera2{
+	background: purple;
+}
+h1{
+	text-align: center;	
+}
+.tercera > h1{
+	color: white;
+	font-size: 80px;
+	position: relative;
+	top: 70px;
+	
+}
+.tercera1 h1{
+	color: white;
+	font-size: 80px;
+	position: relative;
+	top: 70px;
+
+}
+.tercera2 h1{
+	color: white;
+	font-size: 80px;
+	position: relative;
+	top: 70px;
+
+}
+.segunda h1{
+	color: white;
+	font-size: 80px;
+	position: relative;
+	top: 30px;
+
+}
