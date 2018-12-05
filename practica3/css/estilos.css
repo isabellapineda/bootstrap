@@ -1,0 +1,41 @@
+#col-md-12{
+	height: 600px;
+	background-image: url("../img/header-bg.jpg");
+	background-size: cover;
+}
+ .contenedor{
+	text-align: center;
+	margin-top: 200px;
+}
+.contenedor h3{
+	color: white;
+	font-family: Kaushan Script;
+	font-size: 40px;
+}
+.contenedor h1{
+	color: white;
+	font-size: 70px;
+}
+.navbar-header .navbar-brand{
+	color: rgb(255, 236, 51);
+	font-size: 25px;
+	font-family: Kaushan Script;
+}
+[class="navbar-brand"]{
+	color: rgb(255, 236, 51);
+
+}
+.contenedor 
+.btn{
+	background: rgb(255, 236, 51);
+	border: none;
+}
+.col-md-4{
+	text-align: center;
+}
+.col-md-4 h4{
+	font-size: 20px;
+}
+ 
+
+
